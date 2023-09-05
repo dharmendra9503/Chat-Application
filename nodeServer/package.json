@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "Mayank Chaudhary",
+  "author": "Dharmendra Prajapati",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.4",
